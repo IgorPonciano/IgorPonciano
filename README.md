@@ -4,7 +4,9 @@
 > 
 > Because of that, it should be easier to find my newer contributions on the repositories hosted by my very good friend [Alexandre Monzen](https://github.com/Xandyxan)
 
-📚 I'm looking forward to learn new tools and languages such as C++ and Unreal Engine 5
+📚 I'm currently learning C# and a bit of C, as well as general coding knowledge.
+
+📝 Looking forward to discovering better ways to write code and become a more complete developer.
 
 My Pronouns (he/him)
 
