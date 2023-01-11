@@ -1,10 +1,8 @@
 ## Hi everyone!
 
-> I’m currently working on the development of my game design bachelor's thesis, the game **Portal Dream**, a project that seeks to demonstrate and raise awareness on how the feeling of loneliness has different origins and reactions for each person, through a narrative game full of charismatic characters!
-> 
-> Because of that, it should be easier to find my newer contributions on the repositories hosted by my very good friend [Alexandre Monzen](https://github.com/Xandyxan)
+> I’m currently working on the development of the game **Portal Dream**, a project that seeks to demonstrate and raise awareness on how the feeling of loneliness has different origins and reactions for each person, through a narrative game full of charismatic characters!
 
-📚 I'm currently learning C# and a bit of C, as well as general coding knowledge.
+📚 Learning C#, as well as general coding knowledge.
 
 📝 I look forward to discovering better ways to write clean elegant code and to become a more complete developer.
 
