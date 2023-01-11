@@ -6,7 +6,7 @@
 
 📚 I'm currently learning C# and a bit of C, as well as general coding knowledge.
 
-📝 Looking forward to discovering better ways to write code and become a more complete developer.
+📝 I look forward to discovering better ways to write clean elegant code and to become a more complete developer.
 
 My Pronouns (he/him)
 
