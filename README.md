@@ -1,6 +1,7 @@
-## Hi everyone!
+## Hi, I'm Igor Ponciano! 👋
 
-> I’m currently working on the development of the game **Portal Dream**, a project that seeks to demonstrate and raise awareness on how the feeling of loneliness has different origins and reactions for each person, through a narrative game full of charismatic characters!
+Member of [Aquapunk Projects](https://linktr.ee/aquapunkprojects) <br>
+> Currently working on the development of the game **Portal Dream**, a project that seeks to demonstrate and raise awareness on how the feeling of loneliness has different origins and reactions for each person, through a narrative game full of charismatic characters!
 
 📚 Learning C#, as well as general coding knowledge.
 
@@ -8,5 +9,18 @@
 
 My Pronouns (he/him)
 
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorPonciano&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPonciano&theme=dark)](https://github.com/IgorPonciano/github-readme-stats)
+## My Tools
+
+Software
+
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+Programming languages and IDEs
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  
+  
+
+## Where to find me 👀
+
+[LinkedIn](https://br.linkedin.com/in/igor-ponciano-0b866520b?original_referer=) <br>
+[Instagram](https://www.instagram.com/igorponciano_dev/) <br>
