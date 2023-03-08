@@ -3,7 +3,7 @@
 Member of [Aquapunk Projects](https://linktr.ee/aquapunkprojects) <br>
 > Currently working on the development of the game **Portal Dream**, a project that seeks to demonstrate and raise awareness on how the feeling of loneliness has different origins and reactions for each person, through a narrative game full of charismatic characters!
 
-📚 Learning C#, as well as general coding knowledge. Recently started testing out Unreal Engine, so I might play with C++ for while.
+📚 My main knowledge is from C#, since I worked mostly with Unity through these last years, but I'm alsways trying to learn a bit of MySQL, HTML and other things that might look interesting, as well as general coding knowledge and best pratices. Recently started testing out Unreal Engine, so I might play with C++ for while too.
 
 📝 I look forward to discovering better ways to write clean elegant code and to become a more complete developer.
 
